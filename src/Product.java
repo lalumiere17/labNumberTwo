@@ -4,6 +4,8 @@ public abstract class Product {
     String code;
     String article_number;
 
+
+
     void Buy(){
 
     };
